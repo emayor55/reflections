@@ -1,0 +1,8 @@
+
+
+
+Q: How might using version control make you more confident to make changes that could break something?
+because I can always go back to a previous version of the programs, i am more confident in making changes because there's a simple way of backtracking my changes in case the situation calls for it. 
+
+
+Q: Now that you have your workspace set up, what do you want to try using Git for? I can try editing files in it. 
