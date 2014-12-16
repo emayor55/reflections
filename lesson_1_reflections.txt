@@ -1,9 +1,35 @@
+Q1: How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By highlighting and isolating the differences, it will be easier to spot the changes made - 
+    both those that are intentional and those not intentional. This will certainly speed up finding any bug that was introduced.  
+
+Q2: How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can always 'restore' to any previous version, without manually undoing the work you just did, if need to. You can also get insights, as well as trace the evolution of features and learn from possible mistakes of the past by looking at historical versions of the code. 
+
+Q3: What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro's of manually choosing when to 'commit':  you have better control of what you are storing, you can choose to commit only when you are absolutely sure and you have added a logical unit that will make sense to store. Unlike in autosave, you will have less versions stored, each one of which will have better chances of making sense or having better utility. 
+
+    Cons: without autosave, if you wait too long, you may forget to store and run the risk of losing your changes, which may mean you have to redo the work.  
 
 
-Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately? Git is more geared towards version control of program files that may have inherent dependecies with one another. Other version control are probably more suitable in handling stand-alone documents with no dependencies.  
+Q4: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately? Git is more geared towards version control of program files that may have inherent dependecies with one another. Other version control are probably more suitable in handling stand-alone documents with no dependencies.  
 
-Q: How might using version control make you more confident to make changes that could break something?
+Q5: How can you use the commands git log and git diff to view the history of files?
+
+    git log displays the commit id for every commit along with the comment which normally describes the change. This allows one to identify which commit introduced which change, if the comments are meaningful enough. The commit id's and then be used two compare any pair of commits, so one can get insight on what were added and/or deleted from a file between those two commits.
+
+
+Q6: How might using version control make you more confident to make changes that could break something?
 because I can always go back to a previous version of the programs, i am more confident in making changes because there's a simple way of backtracking my changes in case the situation calls for it. 
 
 
-Q: Now that you have your workspace set up, what do you want to try using Git for? I can try editing files in it. 
+Q7: Now that you have your workspace set up, what do you want to try using Git for? 
+I can try editing files in it. 
+
+
