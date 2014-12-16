@@ -1,5 +1,6 @@
 
 
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately? Git is more geared towards version control of program files that may have inherent dependecies with one another. Other version control are probably more suitable in handling stand-alone documents with no dependencies.  
 
 Q: How might using version control make you more confident to make changes that could break something?
 because I can always go back to a previous version of the programs, i am more confident in making changes because there's a simple way of backtracking my changes in case the situation calls for it. 
