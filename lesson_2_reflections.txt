@@ -19,4 +19,4 @@ Branches would be helpful when you want to explore some changes that you need to
 
 Q5: How do the diagrams help you visualize the branch structure? The diagrams is a visual representation of which commits are in which branches. It creates a picture that depicts which changes are in a branch and which are not and which commits are unreachable and can be discarded.
 
- 
+ Q6:What is the result of merging two branches together? Why do we represent it in the diagram the way we do? Merging two branches causes the interweaving of code additions and deletions in two separate versions of a file into a merged file - as if all the changes were applied on just single copy. this is done automatically. We represent a merge in the diagram the way we do because not only do we have one current version in the master branch, there are ways of going back to previous versions before the merge was done.  
