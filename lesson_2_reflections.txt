@@ -18,4 +18,5 @@ Q4: What are some situations when branches would be helpful in keeping your hist
 Branches would be helpful when you want to explore some changes that you need to commit but may not necessarily be in the final version. it is easier to checkout because the id is more meaningful and not merely a string of numbers and letters.
 
 Q5: How do the diagrams help you visualize the branch structure? The diagrams is a visual representation of which commits are in which branches. It creates a picture that depicts which changes are in a branch and which are not and which commits are unreachable and can be discarded.
+
  
