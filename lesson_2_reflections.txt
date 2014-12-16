@@ -9,3 +9,13 @@ The staging area is where files are 'added' to be tracked. Not all files in the 
 The respository is for files that have been committed from the staging area. Not all files in the staging area are stored in the repository unless they are 'committed'. 
 
 The staging area  serves as a buffer zone.
+
+Q3:How can you use the staging area to make sure you have one commit per logical change?
+
+if the logical change involves several files, add all the modified files to the staging area before doing a commit to the repository. The staging area becomes may be considered as a waiting room until all components of the logical change have been added and ready to be committed to the repository.
+
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would be helpful when you want to explore some changes that you need to commit but may not necessarily be in the final version. it is easier to checkout because the id is more meaningful and not merely a string of numbers and letters.
+
+Q5: How do the diagrams help you visualize the branch structure? The diagrams is a visual representation of which commits are in which branches. It creates a picture that depicts which changes are in a branch and which are not and which commits are unreachable and can be discarded.
+ 
