@@ -16,7 +16,7 @@ use one instead of another?
 Q4: What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Having the last known state of the 'remote' stored locally allows one to track changes that others may have pushed to the remote, or you yourself pushed to the remote from another device.  If you do not have such a copy, it will be harder to determine what changes were made (by you or others) since your last push.  
 
 Q5: How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
