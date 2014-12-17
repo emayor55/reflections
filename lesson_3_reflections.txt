@@ -6,7 +6,7 @@ local?
 Q2: Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    By using manual pull from the remote instead of automatic updates, i have more control on what i want to lod into my local workspace. I can be more discriminating. Also, if my current checkout branch is not the same as the one in my remote, an automatic update may yield undesirable results difficult to undo. 
 
 Q3: Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
@@ -27,3 +27,4 @@ Q6: When would you want to make changes in a separate branch rather than directl
 master?  What benefits does each approach have?
 
     Fill in your answer here
+load into my local 
